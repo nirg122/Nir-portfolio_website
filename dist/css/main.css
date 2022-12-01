@@ -418,6 +418,9 @@ img {
   text-align: center;
   background: #ffbc00;
 }
+#about-b .headline:hover .bottom-line {
+  background-color: #f4f4f4;
+}
 #about-c .about-logos {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
